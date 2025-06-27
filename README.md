@@ -1,8 +1,3 @@
-Here's a comprehensive `README.md` file content for a GitHub repository that converts `.mat` (MATLAB) files to `.csv` format. This template includes all the standard sections typically found in a well-documented project:
-
----
-
-````markdown
 # .MAT to .CSV Converter
 
 This repository provides a simple and efficient tool for converting MATLAB `.mat` files into `.csv` format. It is especially useful for users who want to process or analyze MATLAB data in spreadsheet software or other environments that support `.csv` files.
@@ -148,6 +143,4 @@ This project is licensed under the [MIT License](LICENSE).
 * CSV processing using `pandas`
 
 ```
-
----
 
