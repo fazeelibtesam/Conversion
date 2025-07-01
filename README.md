@@ -142,5 +142,6 @@ This project is licensed under the [MIT License](LICENSE).
 * MATLAB File I/O via `scipy.io` and `h5py`
 * CSV processing using `pandas`
 
+Feel free to fork, star ⭐, and follow for updates!
 ```
 
